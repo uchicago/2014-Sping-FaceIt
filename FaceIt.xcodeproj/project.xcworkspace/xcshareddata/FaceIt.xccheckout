@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB374047-771C-4C46-8DAA-B056444DC102</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FaceIt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74FAD4A6-5788-4188-9D92-D2829BF329F1</key>
+		<string>ssh://github.com/uchicago/Spring2013-FaceIt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FaceIt.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74FAD4A6-5788-4188-9D92-D2829BF329F1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/uchicago/Spring2013-FaceIt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74FAD4A6-5788-4188-9D92-D2829BF329F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74FAD4A6-5788-4188-9D92-D2829BF329F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>2014-Spring-FaceIt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
